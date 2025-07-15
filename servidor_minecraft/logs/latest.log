@@ -1,59 +1,119 @@
-[15Jul2025 12:30:19.109] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 35.1.37, --fml.mcpVersion, 20201102.104115, --fml.mcVersion, 1.16.4, --fml.forgeGroup, net.minecraftforge, nogui]
-[15Jul2025 12:30:19.112] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 11.0.27 by Ubuntu
-[15Jul2025 12:30:19.385] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[15Jul2025 12:30:19.435] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/workspaces/OneBlock/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.2/mixin-0.8.2.jar Service=ModLauncher Env=SERVER
-[15Jul2025 12:30:20.151] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by endportalrecipe_1.16.5-2.5.jar, found 35.1
-[15Jul2025 12:30:20.151] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by InsaneLib-1.4.2-mc1.16.5.jar, found 35.1
-[15Jul2025 12:30:20.152] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by rftoolsbase-1.16-2.1.5.jar, found 35.1
-[15Jul2025 12:30:20.152] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by xnet-1.16-3.0.17.jar, found 35.1
-[15Jul2025 12:30:20.152] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,] wanted by Bookshelf-Forge-1.16.5-10.4.33.jar, found 35.1
-[15Jul2025 12:30:20.153] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by buildinggadgets-1.16.5-3.8.4-build.25+mc1.16.5.jar, found 35.1
-[15Jul2025 12:30:20.153] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by ProgressiveBosses-3.4.3-mc1.16.5.jar, found 35.1
-[15Jul2025 12:30:20.154] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by MekanismGenerators-1.16.5-10.1.2.457.jar, found 35.1
-[15Jul2025 12:30:20.154] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by XNetGases-1.16.5-2.3.10.jar, found 35.1
-[15Jul2025 12:30:20.154] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by refinedstorage-1.9.18.jar, found 35.1
-[15Jul2025 12:30:20.155] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by RSInfinityBooster-1.16.5-1.1+13.jar, found 35.1
-[15Jul2025 12:30:20.155] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by FarmersDelight-1.16.5-0.6.0.jar, found 35.1
-[15Jul2025 12:30:20.155] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,] wanted by BotanyTrees-1.16.5-3.0.10.jar, found 35.1
-[15Jul2025 12:30:20.156] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by Botania-1.16.5-420.3.jar, found 35.1
-[15Jul2025 12:30:20.156] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,] wanted by GameStages-Forge-1.16.5-7.3.14.jar, found 35.1
-[15Jul2025 12:30:20.156] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by collective-1.16.5-5.49.jar, found 35.1
-[15Jul2025 12:30:20.157] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by ExtraStorage-1.16.5-1.6.1.jar, found 35.1
-[15Jul2025 12:30:20.157] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,37) wanted by ExtremeReactors2-1.16.5-2.0.64.jar, found 35.1
-[15Jul2025 12:30:20.157] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by Cucumber-1.16.5-4.1.12.jar, found 35.1
-[15Jul2025 12:30:20.158] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by controlled_random-1.1.0.jar, found 35.1
-[15Jul2025 12:30:20.158] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by simple-rpc-1.16.5-3.2.2.jar, found 35.1
-[15Jul2025 12:30:20.159] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by Mekanism-1.16.5-10.1.2.457.jar, found 35.1
-[15Jul2025 12:30:20.159] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by create-mc1.16.5_v0.3.2g.jar, found 35.1
-[15Jul2025 12:30:20.160] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by BotanyPots-1.16.5-7.1.41.jar, found 35.1
-[15Jul2025 12:30:20.160] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by TimeIsUp-1.16-1.5.3.jar, found 35.1
-[15Jul2025 12:30:20.161] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by filteredchests-1.0.2.jar, found 35.1
-[15Jul2025 12:30:20.161] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by mcjtylib-1.16-5.1.8.jar, found 35.1
-[15Jul2025 12:30:20.162] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by questsadditions-1.16-1.4.2.jar, found 35.1
-[15Jul2025 12:30:20.162] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by MysticalAgriculture-1.16.5-4.2.6.jar, found 35.1
-[15Jul2025 12:30:20.163] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,37) wanted by ZeroCore2-1.16.5-2.1.35.jar, found 35.1
-[15Jul2025 12:30:20.164] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by rftoolsbuilder-1.16-3.1.11.jar, found 35.1
-[15Jul2025 12:30:20.165] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by jeiintegration_1.16.5-7.1.0.22.jar, found 35.1
-[15Jul2025 12:30:20.165] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by flywheel-1.16-0.2.5.jar, found 35.1
-[15Jul2025 12:30:20.165] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by gravestone-1.16.5-1.0.7.jar, found 35.1
-[15Jul2025 12:30:20.166] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by JustEnoughProfessions-1.16.5-1.2.2.jar, found 35.1
-[15Jul2025 12:30:20.166] [main/ERROR] [net.minecraftforge.fml.loading.LanguageLoadingProvider/]: Missing language javafml version [36,) wanted by Aquaculture-1.16.5-2.1.23.jar, found 35.1
-[15Jul2025 12:30:20.295] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[15Jul2025 12:30:20.744] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[15Jul2025 12:30:20.804] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1050]: java.lang.NoSuchMethodError: 'void sun.security.util.ManifestEntryVerifier.<init>(java.util.jar.Manifest)'
-[15Jul2025 12:30:20.805] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1050]: 	at cpw.mods.modlauncher.SecureJarHandler.createCodeSource(SecureJarHandler.java:66)
-[15Jul2025 12:30:20.806] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1050]: 	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:275)
-[15Jul2025 12:30:20.807] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1050]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136)
-[15Jul2025 12:30:20.807] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1050]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98)
-[15Jul2025 12:30:20.808] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1050]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:527)
-[15Jul2025 12:30:20.808] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1050]: 	at java.base/java.lang.Class.forName0(Native Method)
-[15Jul2025 12:30:20.809] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1050]: 	at java.base/java.lang.Class.forName(Class.java:398)
-[15Jul2025 12:30:20.810] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1050]: 	at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:51)
-[15Jul2025 12:30:20.811] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1050]: 	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37)
-[15Jul2025 12:30:20.811] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1050]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54)
-[15Jul2025 12:30:20.811] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1050]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72)
-[15Jul2025 12:30:20.812] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1050]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82)
-[15Jul2025 12:30:20.813] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1050]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
-[15Jul2025 12:30:20.813] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1050]: 	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:63)
-[15Jul2025 12:30:20.814] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1050]: 	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:60)
-[15Jul2025 12:30:20.814] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1050]: 	at net.minecraftforge.server.ServerMain.main(ServerMain.java:57)
+[15Jul2025 12:34:00.420] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[15Jul2025 12:34:00.423] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.27 by Ubuntu
+[15Jul2025 12:34:00.731] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[15Jul2025 12:34:00.799] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/OneBlock/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[15Jul2025 12:34:00.839] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/OneBlock/servidor_minecraft/config/fml.toml is not correct. Correcting
+[15Jul2025 12:34:00.845] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[15Jul2025 12:34:00.850] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [maxThreads] was corrected from null to -1
+[15Jul2025 12:34:00.849] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: com.electronwill.nightconfig.core.io.ParsingException: Invalid TOML data: entry "[maxThreads]" defined twice in its table.
+[15Jul2025 12:34:00.851] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at com.electronwill.nightconfig.toml.TableParser.checkDuplicateKey(TableParser.java:88)
+[15Jul2025 12:34:00.851] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:59)
+[15Jul2025 12:34:00.852] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:44)
+[15Jul2025 12:34:00.852] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:37)
+[15Jul2025 12:34:00.852] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:113)
+[15Jul2025 12:34:00.853] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:219)
+[15Jul2025 12:34:00.853] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:202)
+[15Jul2025 12:34:00.854] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at com.electronwill.nightconfig.core.file.WriteSyncFileConfig.load(WriteSyncFileConfig.java:73)
+[15Jul2025 12:34:00.854] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:181)
+[15Jul2025 12:34:01.255] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[15Jul2025 12:34:01.382] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[15Jul2025 12:34:01.390] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[15Jul2025 12:34:02.365] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[15Jul2025 12:34:08.291] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[15Jul2025 12:34:08.330] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[15Jul2025 12:34:08.880] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/OneBlock/servidor_minecraft/config/forge-common.toml is not correct. Correcting
+[15Jul2025 12:34:08.881] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15Jul2025 12:34:08.881] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.defaultWorldType was corrected from null to its default, default. 
+[15Jul2025 12:34:08.932] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[15Jul2025 12:34:09.676] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[15Jul2025 12:34:12.121] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15Jul2025 12:34:13.069] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15Jul2025 12:34:13.071] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15Jul2025 12:34:13.073] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15Jul2025 12:34:13.075] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15Jul2025 12:34:13.079] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15Jul2025 12:34:13.084] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar
+[15Jul2025 12:34:14.265] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[15Jul2025 12:34:15.204] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
+[15Jul2025 12:34:16.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[15Jul2025 12:34:16.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[15Jul2025 12:34:16.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[15Jul2025 12:34:16.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[15Jul2025 12:34:16.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[15Jul2025 12:34:16.635] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[15Jul2025 12:34:16.804] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15Jul2025 12:34:16.805] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[15Jul2025 12:34:16.805] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15Jul2025 12:34:16.805] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[15Jul2025 12:34:16.826] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[15Jul2025 12:34:16.827] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15Jul2025 12:34:16.828] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[15Jul2025 12:34:16.834] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringTileEntities was corrected from null to its default, false. 
+[15Jul2025 12:34:16.835] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[15Jul2025 12:34:16.835] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[15Jul2025 12:34:16.836] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[15Jul2025 12:34:16.836] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.logCascadingWorldGeneration was corrected from null to its default, true. 
+[15Jul2025 12:34:16.837] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixVanillaCascading was corrected from null to its default, false. 
+[15Jul2025 12:34:16.844] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.dimensionUnloadQueueDelay was corrected from null to its default, 0. 
+[15Jul2025 12:34:16.845] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.treatEmptyTagsAsAir was corrected from null to its default, false. 
+[15Jul2025 12:34:16.845] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixAdvancementLoading was corrected from null to its default, true. 
+[15Jul2025 12:34:16.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[15Jul2025 12:34:24.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[15Jul2025 12:34:24.428] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[15Jul2025 12:34:24.802] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[15Jul2025 12:34:25.239] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[15Jul2025 12:34:25.740] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[15Jul2025 12:34:26.239] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 2%
+[15Jul2025 12:34:26.736] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 3%
+[15Jul2025 12:34:27.235] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 5%
+[15Jul2025 12:34:27.733] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 7%
+[15Jul2025 12:34:28.233] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[15Jul2025 12:34:28.741] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[15Jul2025 12:34:29.235] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 14%
+[15Jul2025 12:34:29.732] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 16%
+[15Jul2025 12:34:30.237] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 18%
+[15Jul2025 12:34:30.732] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 18%
+[15Jul2025 12:34:31.235] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 18%
+[15Jul2025 12:34:31.736] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 25%
+[15Jul2025 12:34:32.240] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 28%
+[15Jul2025 12:34:32.929] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 28%
+[15Jul2025 12:34:33.234] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 33%
+[15Jul2025 12:34:33.735] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 34%
+[15Jul2025 12:34:34.238] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 35%
+[15Jul2025 12:34:34.740] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 39%
+[15Jul2025 12:34:35.234] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 41%
+[15Jul2025 12:34:35.740] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 43%
+[15Jul2025 12:34:36.232] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 45%
+[15Jul2025 12:34:36.737] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 45%
+[15Jul2025 12:34:37.233] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 49%
+[15Jul2025 12:34:37.734] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 49%
+[15Jul2025 12:34:38.234] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
+[15Jul2025 12:34:38.747] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
+[15Jul2025 12:34:39.321] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
+[15Jul2025 12:34:39.767] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 58%
+[15Jul2025 12:34:40.933] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 62%
+[15Jul2025 12:34:40.941] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 62%
+[15Jul2025 12:34:41.664] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 68%
+[15Jul2025 12:34:41.740] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 72%
+[15Jul2025 12:34:43.118] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 76%
+[15Jul2025 12:34:43.119] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 76%
+[15Jul2025 12:34:43.671] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
+[15Jul2025 12:34:43.771] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 87%
+[15Jul2025 12:34:44.409] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 90%
+[15Jul2025 12:34:45.504] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 92%
+[15Jul2025 12:34:45.505] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 92%
+[15Jul2025 12:34:45.543] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 21312 ms
+[15Jul2025 12:34:45.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (28.727s)! For help, type "help"
+[15Jul2025 12:35:09.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[15Jul2025 12:35:09.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Jul2025 12:35:09.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Jul2025 12:35:09.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Jul2025 12:35:09.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Jul2025 12:35:10.816] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Jul2025 12:35:10.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Jul2025 12:35:10.818] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Jul2025 12:35:10.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Jul2025 12:35:10.819] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Jul2025 12:35:10.837] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Jul2025 12:35:10.848] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Jul2025 12:35:10.849] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

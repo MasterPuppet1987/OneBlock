@@ -1,7 +1,7 @@
 JVM info: Microsoft - 21.0.7 - 21.0.7+6-LTS
 java.net.preferIPv4Stack=true
-Current Time: 15/07/2025 12:22:09
-Host: files.minecraftforge.net [172.67.161.211, 104.21.58.163]
+Current Time: 15/07/2025 12:33:12
+Host: files.minecraftforge.net [104.21.58.163, 172.67.161.211]
 Host: maven.minecraftforge.net [172.67.161.211, 104.21.58.163]
 Host: libraries.minecraft.net [13.107.246.64]
 Host: launchermeta.mojang.com [13.107.246.64]
@@ -13,33 +13,33 @@ Data kindly mirrored by CreeperHost at https://www.creeperhost.net/
 Extracting main jar:
   Extracted successfully
 Considering minecraft server jar
-  Downloading library from https://piston-data.mojang.com/v1/objects/35139deedbd5182953cf1caa23835da59ca3d7cd/server.jar
+  Downloading library from https://piston-data.mojang.com/v1/objects/1b557e7b033b583cd9f66746b7a9ab1ec1673ced/server.jar
     Download completed: Checksum validated.
 Downloading libraries
 Found 0 additional library directories
-Considering library net.minecraftforge:forge:1.16.4-35.1.37
-  Extracting library from /maven/net/minecraftforge/forge/1.16.4-35.1.37/forge-1.16.4-35.1.37.jar
+Considering library net.minecraftforge:forge:1.16.5-36.2.42
+  Extracting library from /maven/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42.jar
     Extraction completed: Checksum validated.
-Considering library org.ow2.asm:asm:9.0
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm/9.0/asm-9.0.jar
+Considering library org.ow2.asm:asm:9.6
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm/9.6/asm-9.6.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm-commons:9.0
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-commons/9.0/asm-commons-9.0.jar
+Considering library org.ow2.asm:asm-commons:9.6
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm-tree:9.0
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-tree/9.0/asm-tree-9.0.jar
+Considering library org.ow2.asm:asm-tree:9.6
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm-util:9.0
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-util/9.0/asm-util-9.0.jar
+Considering library org.ow2.asm:asm-util:9.6
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm-analysis:9.0
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-analysis/9.0/asm-analysis-9.0.jar
+Considering library org.ow2.asm:asm-analysis:9.6
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar
     Download completed: Checksum validated.
-Considering library cpw.mods:modlauncher:8.0.9
-  Downloading library from https://maven.creeperhost.net/cpw/mods/modlauncher/8.0.9/modlauncher-8.0.9.jar
+Considering library cpw.mods:modlauncher:8.1.3
+  Downloading library from https://maven.creeperhost.net/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar
     Download completed: Checksum validated.
-Considering library cpw.mods:grossjava9hacks:1.3.0
-  Downloading library from https://maven.creeperhost.net/cpw/mods/grossjava9hacks/1.3.0/grossjava9hacks-1.3.0.jar
+Considering library cpw.mods:grossjava9hacks:1.3.3
+  Downloading library from https://maven.creeperhost.net/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar
     Download completed: Checksum validated.
 Considering library net.minecraftforge:accesstransformers:3.0.1
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar
@@ -53,53 +53,56 @@ Considering library net.minecraftforge:eventbus:4.0.0
 Considering library net.minecraftforge:forgespi:3.2.0
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:coremods:4.0.3
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/coremods/4.0.3/coremods-4.0.3.jar
+Considering library net.minecraftforge:coremods:4.0.6
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar
     Download completed: Checksum validated.
 Considering library net.minecraftforge:unsafe:0.2.0
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar
     Download completed: Checksum validated.
-Considering library com.electronwill.night-config:core:3.6.2
-  Downloading library from https://maven.creeperhost.net/com/electronwill/night-config/core/3.6.2/core-3.6.2.jar
+Considering library com.electronwill.night-config:core:3.6.3
+  Downloading library from https://maven.creeperhost.net/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar
     Download completed: Checksum validated.
-Considering library com.electronwill.night-config:toml:3.6.2
-  Downloading library from https://maven.creeperhost.net/com/electronwill/night-config/toml/3.6.2/toml-3.6.2.jar
+Considering library com.electronwill.night-config:toml:3.6.3
+  Downloading library from https://maven.creeperhost.net/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar
     Download completed: Checksum validated.
 Considering library org.jline:jline:3.12.1
   Downloading library from https://maven.creeperhost.net/org/jline/jline/3.12.1/jline-3.12.1.jar
     Download completed: Checksum validated.
-Considering library org.apache.maven:maven-artifact:3.6.0
-  Downloading library from https://maven.creeperhost.net/org/apache/maven/maven-artifact/3.6.0/maven-artifact-3.6.0.jar
+Considering library org.apache.maven:maven-artifact:3.6.3
+  Downloading library from https://maven.creeperhost.net/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar
     Download completed: Checksum validated.
 Considering library net.jodah:typetools:0.8.3
   Downloading library from https://maven.creeperhost.net/net/jodah/typetools/0.8.3/typetools-0.8.3.jar
     Download completed: Checksum validated.
-Considering library org.apache.logging.log4j:log4j-api:2.11.2
-  Downloading library from https://maven.creeperhost.net/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar
+Considering library org.apache.logging.log4j:log4j-api:2.15.0
+  Downloading library from https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar
     Download completed: Checksum validated.
-Considering library org.apache.logging.log4j:log4j-core:2.11.2
-  Downloading library from https://maven.creeperhost.net/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.jar
+Considering library org.apache.logging.log4j:log4j-core:2.15.0
+  Downloading library from https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar
+    Download completed: Checksum validated.
+Considering library org.apache.logging.log4j:log4j-slf4j18-impl:2.15.0
+  Downloading library from https://libraries.minecraft.net/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar
     Download completed: Checksum validated.
 Considering library net.minecrell:terminalconsoleappender:1.2.0
   Downloading library from https://maven.creeperhost.net/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar
     Download completed: Checksum validated.
 Considering library net.sf.jopt-simple:jopt-simple:5.0.4
-  Downloading library from https://maven.creeperhost.net/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
+  Downloading library from https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
     Download completed: Checksum validated.
-Considering library org.spongepowered:mixin:0.8.2
-  Downloading library from https://maven.creeperhost.net/org/spongepowered/mixin/0.8.2/mixin-0.8.2.jar
+Considering library org.spongepowered:mixin:0.8.4
+  Downloading library from https://maven.creeperhost.net/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:nashorn-core-compat:15.1.1
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/nashorn-core-compat/15.1.1/nashorn-core-compat-15.1.1.jar
+Considering library net.minecraftforge:nashorn-core-compat:15.1.1.1
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar
     Download completed: Checksum validated.
 Considering library com.github.jponge:lzma-java:1.3
   Downloading library from https://maven.creeperhost.net/com/github/jponge/lzma-java/1.3/lzma-java-1.3.jar
     Download completed: Checksum validated.
 Considering library com.google.code.findbugs:jsr305:3.0.2
-  Downloading library from https://maven.creeperhost.net/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+  Downloading library from https://libraries.minecraft.net/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
     Download completed: Checksum validated.
-Considering library com.google.code.gson:gson:2.8.0
-  Downloading library from https://libraries.minecraft.net/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+Considering library com.google.code.gson:gson:2.8.7
+  Downloading library from https://maven.creeperhost.net/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar
     Download completed: Checksum validated.
 Considering library com.google.errorprone:error_prone_annotations:2.1.3
   Downloading library from https://maven.creeperhost.net/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar
@@ -116,14 +119,29 @@ Considering library com.google.j2objc:j2objc-annotations:1.1
 Considering library com.nothome:javaxdelta:2.0.1
   Downloading library from https://maven.creeperhost.net/com/nothome/javaxdelta/2.0.1/javaxdelta-2.0.1.jar
     Download completed: Checksum validated.
+Considering library com.opencsv:opencsv:4.4
+  Downloading library from https://maven.creeperhost.net/com/opencsv/opencsv/4.4/opencsv-4.4.jar
+    Download completed: Checksum validated.
+Considering library commons-beanutils:commons-beanutils:1.9.3
+  Downloading library from https://maven.creeperhost.net/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar
+    Download completed: Checksum validated.
+Considering library commons-collections:commons-collections:3.2.2
+  Downloading library from https://maven.creeperhost.net/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar
+    Download completed: Checksum validated.
 Considering library commons-io:commons-io:2.4
   Downloading library from https://libraries.minecraft.net/commons-io/commons-io/2.4/commons-io-2.4.jar
     Download completed: Checksum validated.
-Considering library de.oceanlabs.mcp:mcp_config:1.16.4-20201102.104115@zip
-  Downloading library from https://maven.creeperhost.net/de/oceanlabs/mcp/mcp_config/1.16.4-20201102.104115/mcp_config-1.16.4-20201102.104115.zip
+Considering library commons-logging:commons-logging:1.2
+  Downloading library from https://libraries.minecraft.net/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
     Download completed: Checksum validated.
-Considering library de.siegmar:fastcsv:1.0.2
-  Downloading library from https://maven.creeperhost.net/de/siegmar/fastcsv/1.0.2/fastcsv-1.0.2.jar
+Considering library de.oceanlabs.mcp:mcp_config:1.16.5-20210115.111550@zip
+  Downloading library from https://maven.creeperhost.net/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550.zip
+    Download completed: Checksum validated.
+Considering library de.siegmar:fastcsv:2.0.0
+  Downloading library from https://maven.creeperhost.net/de/siegmar/fastcsv/2.0.0/fastcsv-2.0.0.jar
+    Download completed: Checksum validated.
+Considering library net.md-5:SpecialSource:1.11.0
+  Downloading library from https://maven.creeperhost.net/net/md-5/SpecialSource/1.11.0/SpecialSource-1.11.0.jar
     Download completed: Checksum validated.
 Considering library net.md-5:SpecialSource:1.8.5
   Downloading library from https://maven.creeperhost.net/net/md-5/SpecialSource/1.8.5/SpecialSource-1.8.5.jar
@@ -131,14 +149,20 @@ Considering library net.md-5:SpecialSource:1.8.5
 Considering library net.minecraftforge:binarypatcher:1.0.12
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/binarypatcher/1.0.12/binarypatcher-1.0.12.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:forge:1.16.4-35.1.37:universal
-  Extracting library from /maven/net/minecraftforge/forge/1.16.4-35.1.37/forge-1.16.4-35.1.37-universal.jar
+Considering library net.minecraftforge:forge:1.16.5-36.2.42:universal
+  Extracting library from /maven/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-universal.jar
     Extraction completed: Checksum validated.
-Considering library net.minecraftforge:installertools:1.1.11
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/installertools/1.1.11/installertools-1.1.11.jar
+Considering library net.minecraftforge:installertools:1.3.0
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/installertools/1.3.0/installertools-1.3.0.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:jarsplitter:1.1.2
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/jarsplitter/1.1.2/jarsplitter-1.1.2.jar
+Considering library net.minecraftforge:jarsplitter:1.1.4
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/jarsplitter/1.1.4/jarsplitter-1.1.4.jar
+    Download completed: Checksum validated.
+Considering library net.minecraftforge:srgutils:0.4.11
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/srgutils/0.4.11/srgutils-0.4.11.jar
+    Download completed: Checksum validated.
+Considering library net.minecraftforge:srgutils:0.4.3
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/srgutils/0.4.3/srgutils-0.4.3.jar
     Download completed: Checksum validated.
 Considering library net.sf.jopt-simple:jopt-simple:4.9
   Downloading library from https://maven.creeperhost.net/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.jar
@@ -147,6 +171,15 @@ Considering library net.sf.jopt-simple:jopt-simple:5.0.4
   File exists: Checksum validated.
 Considering library net.sf.opencsv:opencsv:2.3
   Downloading library from https://maven.creeperhost.net/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar
+    Download completed: Checksum validated.
+Considering library org.apache.commons:commons-collections4:4.2
+  Downloading library from https://maven.creeperhost.net/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar
+    Download completed: Checksum validated.
+Considering library org.apache.commons:commons-lang3:3.8.1
+  Downloading library from https://maven.creeperhost.net/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar
+    Download completed: Checksum validated.
+Considering library org.apache.commons:commons-text:1.3
+  Downloading library from https://maven.creeperhost.net/org/apache/commons/commons-text/1.3/commons-text-1.3.jar
     Download completed: Checksum validated.
 Considering library org.checkerframework:checker-qual:2.0.0
   Downloading library from https://maven.creeperhost.net/org/checkerframework/checker-qual/2.0.0/checker-qual-2.0.0.jar
@@ -157,59 +190,78 @@ Considering library org.codehaus.mojo:animal-sniffer-annotations:1.14
 Considering library org.ow2.asm:asm-analysis:6.1.1
   Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-analysis/6.1.1/asm-analysis-6.1.1.jar
     Download completed: Checksum validated.
+Considering library org.ow2.asm:asm-analysis:9.3
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar
+    Download completed: Checksum validated.
 Considering library org.ow2.asm:asm-commons:6.1.1
   Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-commons/6.1.1/asm-commons-6.1.1.jar
+    Download completed: Checksum validated.
+Considering library org.ow2.asm:asm-commons:9.3
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar
     Download completed: Checksum validated.
 Considering library org.ow2.asm:asm-tree:6.1.1
   Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-tree/6.1.1/asm-tree-6.1.1.jar
     Download completed: Checksum validated.
+Considering library org.ow2.asm:asm-tree:9.3
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar
+    Download completed: Checksum validated.
 Considering library org.ow2.asm:asm:6.1.1
   Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm/6.1.1/asm-6.1.1.jar
+    Download completed: Checksum validated.
+Considering library org.ow2.asm:asm:9.3
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm/9.3/asm-9.3.jar
     Download completed: Checksum validated.
 Considering library trove:trove:1.0.2
   Downloading library from https://maven.creeperhost.net/trove/trove/1.0.2/trove-1.0.2.jar
     Download completed: Checksum validated.
-Created Temporary Directory: /tmp/forge_installer4029873649377569585
+Created Temporary Directory: /tmp/forge_installer17876417994665317944
   Extracting: /data/server.lzma
 Building Processors
 ===============================================================================
   MainClass: net.minecraftforge.installertools.ConsoleTool
   Classpath:
-    /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraftforge/installertools/1.1.11/installertools-1.1.11.jar
-    /workspaces/OneBlock/servidor_minecraft/./libraries/net/md-5/SpecialSource/1.8.5/SpecialSource-1.8.5.jar
+    /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraftforge/installertools/1.3.0/installertools-1.3.0.jar
+    /workspaces/OneBlock/servidor_minecraft/./libraries/net/md-5/SpecialSource/1.11.0/SpecialSource-1.11.0.jar
     /workspaces/OneBlock/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
-    /workspaces/OneBlock/servidor_minecraft/./libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
-    /workspaces/OneBlock/servidor_minecraft/./libraries/de/siegmar/fastcsv/1.0.2/fastcsv-1.0.2.jar
-    /workspaces/OneBlock/servidor_minecraft/./libraries/org/ow2/asm/asm-commons/6.1.1/asm-commons-6.1.1.jar
+    /workspaces/OneBlock/servidor_minecraft/./libraries/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar
+    /workspaces/OneBlock/servidor_minecraft/./libraries/de/siegmar/fastcsv/2.0.0/fastcsv-2.0.0.jar
+    /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraftforge/srgutils/0.4.11/srgutils-0.4.11.jar
+    /workspaces/OneBlock/servidor_minecraft/./libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar
     /workspaces/OneBlock/servidor_minecraft/./libraries/com/google/guava/guava/20.0/guava-20.0.jar
-    /workspaces/OneBlock/servidor_minecraft/./libraries/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar
-    /workspaces/OneBlock/servidor_minecraft/./libraries/org/ow2/asm/asm-analysis/6.1.1/asm-analysis-6.1.1.jar
-    /workspaces/OneBlock/servidor_minecraft/./libraries/org/ow2/asm/asm-tree/6.1.1/asm-tree-6.1.1.jar
-    /workspaces/OneBlock/servidor_minecraft/./libraries/org/ow2/asm/asm/6.1.1/asm-6.1.1.jar
-  Args: --task, MCP_DATA, --input, /workspaces/OneBlock/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.4-20201102.104115/mcp_config-1.16.4-20201102.104115.zip, --output, /workspaces/OneBlock/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.4-20201102.104115/mcp_config-1.16.4-20201102.104115-mappings.txt, --key, mappings
+    /workspaces/OneBlock/servidor_minecraft/./libraries/com/opencsv/opencsv/4.4/opencsv-4.4.jar
+    /workspaces/OneBlock/servidor_minecraft/./libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar
+    /workspaces/OneBlock/servidor_minecraft/./libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar
+    /workspaces/OneBlock/servidor_minecraft/./libraries/org/ow2/asm/asm/9.3/asm-9.3.jar
+    /workspaces/OneBlock/servidor_minecraft/./libraries/org/apache/commons/commons-text/1.3/commons-text-1.3.jar
+    /workspaces/OneBlock/servidor_minecraft/./libraries/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar
+    /workspaces/OneBlock/servidor_minecraft/./libraries/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar
+    /workspaces/OneBlock/servidor_minecraft/./libraries/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar
+    /workspaces/OneBlock/servidor_minecraft/./libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+    /workspaces/OneBlock/servidor_minecraft/./libraries/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar
+  Args: --task, MCP_DATA, --input, /workspaces/OneBlock/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550.zip, --output, /workspaces/OneBlock/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550-mappings.txt, --key, mappings
 Task: MCP_DATA
-Input:  /workspaces/OneBlock/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.4-20201102.104115/mcp_config-1.16.4-20201102.104115.zip
-Output: /workspaces/OneBlock/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.4-20201102.104115/mcp_config-1.16.4-20201102.104115-mappings.txt
+Input:  /workspaces/OneBlock/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550.zip
+Output: /workspaces/OneBlock/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550-mappings.txt
 Key:    mappings
 Extracting: config/joined.tsrg
 ===============================================================================
   Cache: 
-    /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.4-20201102.104115/server-1.16.4-20201102.104115-slim.jar Missing
-    /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.4-20201102.104115/server-1.16.4-20201102.104115-extra.jar Missing
+    /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-slim.jar Missing
+    /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-extra.jar Missing
   MainClass: net.minecraftforge.jarsplitter.ConsoleTool
   Classpath:
-    /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraftforge/jarsplitter/1.1.2/jarsplitter-1.1.2.jar
+    /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraftforge/jarsplitter/1.1.4/jarsplitter-1.1.4.jar
     /workspaces/OneBlock/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
-  Args: --input, /workspaces/OneBlock/servidor_minecraft/./minecraft_server.1.16.4.jar, --slim, /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.4-20201102.104115/server-1.16.4-20201102.104115-slim.jar, --extra, /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.4-20201102.104115/server-1.16.4-20201102.104115-extra.jar, --srg, /workspaces/OneBlock/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.4-20201102.104115/mcp_config-1.16.4-20201102.104115-mappings.txt
+    /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraftforge/srgutils/0.4.3/srgutils-0.4.3.jar
+  Args: --input, /workspaces/OneBlock/servidor_minecraft/./minecraft_server.1.16.5.jar, --slim, /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-slim.jar, --extra, /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-extra.jar, --srg, /workspaces/OneBlock/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550-mappings.txt
 Splitter: 
-  Input:    /workspaces/OneBlock/servidor_minecraft/./minecraft_server.1.16.4.jar
-  Input:    /workspaces/OneBlock/servidor_minecraft/./minecraft_server.1.16.4.jar
-  Slim:     /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.4-20201102.104115/server-1.16.4-20201102.104115-slim.jar
+  Input:    /workspaces/OneBlock/servidor_minecraft/./minecraft_server.1.16.5.jar
+  Slim:     /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-slim.jar
   Data:     null
-  Extra:    /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.4-20201102.104115/server-1.16.4-20201102.104115-extra.jar
+  Extra:    /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-extra.jar
   Including data in extra
-  SRG:   /workspaces/OneBlock/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.4-20201102.104115/mcp_config-1.16.4-20201102.104115-mappings.txt
-  InputSha: 35139deedbd5182953cf1caa23835da59ca3d7cd
+  SRG:   /workspaces/OneBlock/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550-mappings.txt
+  InputSha: 1b557e7b033b583cd9f66746b7a9ab1ec1673ced
   SrgSha:   461d06f1f73f42783ef8fe3a3858eb5fad92a18c
 Splitting: 
   Data  META-INF/
@@ -25914,8 +25966,8 @@ Splitting:
   Extra org/apache/commons/codec/net/URLCodec.class
   Extra org/apache/commons/codec/net/Utils.class
   Data  io/netty/internal/
-  Output: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.4-20201102.104115/server-1.16.4-20201102.104115-slim.jar Checksum Validated: b92fbdb3a719bec0f209311177712499d6f82427
-  Output: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.4-20201102.104115/server-1.16.4-20201102.104115-extra.jar Checksum Validated: 443ded78e9df5d3f4f19d7f812a8408a7b83855c
+  Output: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-slim.jar Checksum Validated: 2042be92779b25878580d9c3662756179a5dc55c
+  Output: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-extra.jar Checksum Validated: 48927cadca203a714dcc60ee80533c74e74d3a3f
 ===============================================================================
   MainClass: net.md_5.specialsource.SpecialSource
   Classpath:
@@ -25927,7 +25979,7 @@ Splitting:
     /workspaces/OneBlock/servidor_minecraft/./libraries/org/ow2/asm/asm-analysis/6.1.1/asm-analysis-6.1.1.jar
     /workspaces/OneBlock/servidor_minecraft/./libraries/org/ow2/asm/asm-tree/6.1.1/asm-tree-6.1.1.jar
     /workspaces/OneBlock/servidor_minecraft/./libraries/org/ow2/asm/asm/6.1.1/asm-6.1.1.jar
-  Args: --in-jar, /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.4-20201102.104115/server-1.16.4-20201102.104115-slim.jar, --out-jar, /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.4-20201102.104115/server-1.16.4-20201102.104115-srg.jar, --srg-in, /workspaces/OneBlock/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.4-20201102.104115/mcp_config-1.16.4-20201102.104115-mappings.txt
+  Args: --in-jar, /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-slim.jar, --out-jar, /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-srg.jar, --srg-in, /workspaces/OneBlock/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550-mappings.txt
 Loading mappings
 Loading mappings...  0%
 Loading mappings... 10%
@@ -25935,7 +25987,7 @@ Loading mappings... 20%
 Loading mappings... 30%
 Loading mappings... 40%
 Loading mappings... 50%
-0 packages, 5447 classes, 21481 fields, 38358 methods
+0 packages, 5447 classes, 21481 fields, 38359 methods
 Remapping final jar
 Remapping jar...  0%
 Remapping jar... 10%
@@ -25950,7 +26002,7 @@ Remapping jar... 90%
 Remapping jar... 100%
 ===============================================================================
   Cache: 
-    /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraftforge/forge/1.16.4-35.1.37/forge-1.16.4-35.1.37-server.jar Missing
+    /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-server.jar Missing
   MainClass: net.minecraftforge.binarypatcher.ConsoleTool
   Classpath:
     /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraftforge/binarypatcher/1.0.12/binarypatcher-1.0.12.jar
@@ -25965,14 +26017,14 @@ Remapping jar... 100%
     /workspaces/OneBlock/servidor_minecraft/./libraries/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar
     /workspaces/OneBlock/servidor_minecraft/./libraries/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar
     /workspaces/OneBlock/servidor_minecraft/./libraries/trove/trove/1.0.2/trove-1.0.2.jar
-  Args: --clean, /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.4-20201102.104115/server-1.16.4-20201102.104115-srg.jar, --output, /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraftforge/forge/1.16.4-35.1.37/forge-1.16.4-35.1.37-server.jar, --apply, /tmp/forge_installer4029873649377569585/data/server.lzma
+  Args: --clean, /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-srg.jar, --output, /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-server.jar, --apply, /tmp/forge_installer17876417994665317944/data/server.lzma
 Applying: 
-  Clean:     /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.4-20201102.104115/server-1.16.4-20201102.104115-srg.jar
-  Output:    /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraftforge/forge/1.16.4-35.1.37/forge-1.16.4-35.1.37-server.jar
+  Clean:     /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-srg.jar
+  Output:    /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-server.jar
   KeepData:  false
   Unpatched: false
-  Patches:   /tmp/forge_installer4029873649377569585/data/server.lzma
-Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
+  Patches:   /tmp/forge_installer17876417994665317944/data/server.lzma
+Loading patches file: /tmp/forge_installer17876417994665317944/data/server.lzma
   Reading patch com.mojang.blaze3d.platform.GlStateManager$1.binpatch
     Checksum: 0 Exists: false
   Reading patch com.mojang.blaze3d.platform.GlStateManager$AlphaState.binpatch
@@ -26076,7 +26128,7 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
   Reading patch net.minecraft.block.AbstractBodyPlantBlock.binpatch
     Checksum: e129c897 Exists: true
   Reading patch net.minecraft.block.AbstractFireBlock.binpatch
-    Checksum: 18cc52e4 Exists: true
+    Checksum: 3b128b3c Exists: true
   Reading patch net.minecraft.block.AbstractRailBlock$1.binpatch
     Checksum: 93feba84 Exists: true
   Reading patch net.minecraft.block.AbstractRailBlock.binpatch
@@ -26115,6 +26167,18 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 2366a277 Exists: true
   Reading patch net.minecraft.block.CarrotBlock.binpatch
     Checksum: 9604d147 Exists: true
+  Reading patch net.minecraft.block.ChestBlock$1.binpatch
+    Checksum: 8f94470e Exists: true
+  Reading patch net.minecraft.block.ChestBlock$2$1.binpatch
+    Checksum: 13479c04 Exists: true
+  Reading patch net.minecraft.block.ChestBlock$2.binpatch
+    Checksum: 5f23c6a2 Exists: true
+  Reading patch net.minecraft.block.ChestBlock$3.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.block.ChestBlock$4.binpatch
+    Checksum: 75009ae5 Exists: true
+  Reading patch net.minecraft.block.ChestBlock.binpatch
+    Checksum: 51d24b03 Exists: true
   Reading patch net.minecraft.block.ChorusFlowerBlock.binpatch
     Checksum: 9c3ac8a Exists: true
   Reading patch net.minecraft.block.CocoaBlock$1.binpatch
@@ -26155,10 +26219,6 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: bb7ee121 Exists: true
   Reading patch net.minecraft.block.ITileEntityProvider.binpatch
     Checksum: f5935259 Exists: true
-  Reading patch net.minecraft.block.LadderBlock$1.binpatch
-    Checksum: 36079ade Exists: true
-  Reading patch net.minecraft.block.LadderBlock.binpatch
-    Checksum: 8b50c4ac Exists: true
   Reading patch net.minecraft.block.LeavesBlock.binpatch
     Checksum: d27e487e Exists: true
   Reading patch net.minecraft.block.MovingPistonBlock.binpatch
@@ -26193,8 +26253,6 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 435a8c97 Exists: true
   Reading patch net.minecraft.block.PoweredRailBlock.binpatch
     Checksum: 3efdb797 Exists: true
-  Reading patch net.minecraft.block.PumpkinBlock.binpatch
-    Checksum: d3343b29 Exists: true
   Reading patch net.minecraft.block.RailBlock$1.binpatch
     Checksum: 658d8621 Exists: true
   Reading patch net.minecraft.block.RailBlock.binpatch
@@ -26213,8 +26271,6 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: e7208df9 Exists: true
   Reading patch net.minecraft.block.SaplingBlock.binpatch
     Checksum: 6bebfa87 Exists: true
-  Reading patch net.minecraft.block.ScaffoldingBlock.binpatch
-    Checksum: 7e0ef6f6 Exists: true
   Reading patch net.minecraft.block.SeaGrassBlock.binpatch
     Checksum: 36e9eb47 Exists: true
   Reading patch net.minecraft.block.ShulkerBoxBlock$1.binpatch
@@ -26249,10 +26305,10 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: dd96e924 Exists: true
   Reading patch net.minecraft.block.TrapDoorBlock.binpatch
     Checksum: a660d08f Exists: true
-  Reading patch net.minecraft.block.TripWireBlock$1.binpatch
-    Checksum: 985db05 Exists: true
-  Reading patch net.minecraft.block.TripWireBlock.binpatch
-    Checksum: d9d798b2 Exists: true
+  Reading patch net.minecraft.block.TripWireHookBlock$1.binpatch
+    Checksum: d499ff4 Exists: true
+  Reading patch net.minecraft.block.TripWireHookBlock.binpatch
+    Checksum: 5c19d974 Exists: true
   Reading patch net.minecraft.block.TurtleEggBlock.binpatch
     Checksum: 228ce0c7 Exists: true
   Reading patch net.minecraft.block.VineBlock$1.binpatch
@@ -26290,6 +26346,10 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
   Reading patch net.minecraft.client.Minecraft.binpatch
     Checksum: 0 Exists: false
   Reading patch net.minecraft.client.MouseHelper.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.audio.ISound$AttenuationType.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.audio.ISound.binpatch
     Checksum: 0 Exists: false
   Reading patch net.minecraft.client.audio.SoundEngine.binpatch
     Checksum: 0 Exists: false
@@ -26521,6 +26581,10 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 0 Exists: false
   Reading patch net.minecraft.client.renderer.ActiveRenderInfo.binpatch
     Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.Atlases$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.Atlases.binpatch
+    Checksum: 0 Exists: false
   Reading patch net.minecraft.client.renderer.BlockModelRenderer$1.binpatch
     Checksum: 0 Exists: false
   Reading patch net.minecraft.client.renderer.BlockModelRenderer$AmbientOcclusionFace.binpatch
@@ -26573,6 +26637,20 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 0 Exists: false
   Reading patch net.minecraft.client.renderer.OverlayRenderer.binpatch
     Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.RenderType$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.RenderType$OutlineState.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.RenderType$State$Builder.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.RenderType$State.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.RenderType$Type$EqualityStrategy.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.RenderType$Type.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.RenderType.binpatch
+    Checksum: 0 Exists: false
   Reading patch net.minecraft.client.renderer.RenderTypeLookup.binpatch
     Checksum: 0 Exists: false
   Reading patch net.minecraft.client.renderer.WorldRenderer$1.binpatch
@@ -26609,8 +26687,6 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 0 Exists: false
   Reading patch net.minecraft.client.renderer.entity.FallingBlockRenderer.binpatch
     Checksum: 0 Exists: false
-  Reading patch net.minecraft.client.renderer.entity.FishRenderer.binpatch
-    Checksum: 0 Exists: false
   Reading patch net.minecraft.client.renderer.entity.ItemFrameRenderer.binpatch
     Checksum: 0 Exists: false
   Reading patch net.minecraft.client.renderer.entity.ItemRenderer.binpatch
@@ -26626,8 +26702,6 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
   Reading patch net.minecraft.client.renderer.entity.layers.BipedArmorLayer.binpatch
     Checksum: 0 Exists: false
   Reading patch net.minecraft.client.renderer.entity.layers.ElytraLayer.binpatch
-    Checksum: 0 Exists: false
-  Reading patch net.minecraft.client.renderer.entity.model.SkeletonModel.binpatch
     Checksum: 0 Exists: false
   Reading patch net.minecraft.client.renderer.model.BakedQuad.binpatch
     Checksum: 0 Exists: false
@@ -26735,6 +26809,10 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 0 Exists: false
   Reading patch net.minecraft.client.renderer.tileentity.PistonTileEntityRenderer.binpatch
     Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.tileentity.SignTileEntityRenderer$SignModel.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.tileentity.SignTileEntityRenderer.binpatch
+    Checksum: 0 Exists: false
   Reading patch net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher.binpatch
     Checksum: 0 Exists: false
   Reading patch net.minecraft.client.renderer.vertex.VertexFormat.binpatch
@@ -26809,6 +26887,10 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 43ae7624 Exists: true
   Reading patch net.minecraft.command.impl.LocateCommand.binpatch
     Checksum: 62c4aabb Exists: true
+  Reading patch net.minecraft.command.impl.SpreadPlayersCommand$Position.binpatch
+    Checksum: d3ac1c91 Exists: true
+  Reading patch net.minecraft.command.impl.SpreadPlayersCommand.binpatch
+    Checksum: 47626221 Exists: true
   Reading patch net.minecraft.command.impl.TeleportCommand$Facing.binpatch
     Checksum: ea8c3e87 Exists: true
   Reading patch net.minecraft.command.impl.TeleportCommand.binpatch
@@ -26819,6 +26901,8 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 9e6a3228 Exists: true
   Reading patch net.minecraft.crash.CrashReportCategory.binpatch
     Checksum: a2f608bf Exists: true
+  Reading patch net.minecraft.data.AdvancementProvider.binpatch
+    Checksum: 643d40d8 Exists: true
   Reading patch net.minecraft.data.BlockTagsProvider.binpatch
     Checksum: b9a05caf Exists: true
   Reading patch net.minecraft.data.DataGenerator.binpatch
@@ -26903,8 +26987,6 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 3c2cca95 Exists: true
   Reading patch net.minecraft.dispenser.IDispenseItemBehavior.binpatch
     Checksum: ba6abd8d Exists: true
-  Reading patch net.minecraft.enchantment.EfficiencyEnchantment.binpatch
-    Checksum: b9df82e0 Exists: true
   Reading patch net.minecraft.enchantment.Enchantment$Rarity.binpatch
     Checksum: 674b3815 Exists: true
   Reading patch net.minecraft.enchantment.Enchantment.binpatch
@@ -26971,6 +27053,8 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 30cb2043 Exists: true
   Reading patch net.minecraft.entity.FlyingEntity.binpatch
     Checksum: 4fa9d649 Exists: true
+  Reading patch net.minecraft.entity.ICrossbowUser.binpatch
+    Checksum: 3916ccbe Exists: true
   Reading patch net.minecraft.entity.IShearable.binpatch
     Checksum: ab7531a5 Exists: true
   Reading patch net.minecraft.entity.LivingEntity$1.binpatch
@@ -26983,6 +27067,10 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 33b4bb88 Exists: true
   Reading patch net.minecraft.entity.ai.attributes.Attribute.binpatch
     Checksum: 5e2faa69 Exists: true
+  Reading patch net.minecraft.entity.ai.attributes.AttributeModifierMap$MutableAttribute.binpatch
+    Checksum: 7d852176 Exists: true
+  Reading patch net.minecraft.entity.ai.attributes.AttributeModifierMap.binpatch
+    Checksum: fbcf4a7 Exists: true
   Reading patch net.minecraft.entity.ai.attributes.GlobalEntityTypeAttributes.binpatch
     Checksum: 29d12517 Exists: true
   Reading patch net.minecraft.entity.ai.brain.memory.MemoryModuleType.binpatch
@@ -26995,6 +27083,10 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 1ee99f87 Exists: true
   Reading patch net.minecraft.entity.ai.brain.task.FarmTask.binpatch
     Checksum: 201bfbab Exists: true
+  Reading patch net.minecraft.entity.ai.brain.task.ShootTargetTask$Status.binpatch
+    Checksum: cbfd41f4 Exists: true
+  Reading patch net.minecraft.entity.ai.brain.task.ShootTargetTask.binpatch
+    Checksum: d657bde3 Exists: true
   Reading patch net.minecraft.entity.ai.goal.BreakBlockGoal.binpatch
     Checksum: bdf34ee9 Exists: true
   Reading patch net.minecraft.entity.ai.goal.BreakDoorGoal.binpatch
@@ -27005,6 +27097,10 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 75a117fb Exists: true
   Reading patch net.minecraft.entity.ai.goal.RangedBowAttackGoal.binpatch
     Checksum: 4f46f4b1 Exists: true
+  Reading patch net.minecraft.entity.ai.goal.RangedCrossbowAttackGoal$CrossbowState.binpatch
+    Checksum: d0a25dff Exists: true
+  Reading patch net.minecraft.entity.ai.goal.RangedCrossbowAttackGoal.binpatch
+    Checksum: 7321f5e2 Exists: true
   Reading patch net.minecraft.entity.ai.goal.RunAroundLikeCrazyGoal.binpatch
     Checksum: 547fecc8 Exists: true
   Reading patch net.minecraft.entity.ai.goal.TriggerSkeletonTrapGoal.binpatch
@@ -27015,6 +27111,8 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: a7aaaa2d Exists: true
   Reading patch net.minecraft.entity.boss.dragon.EnderDragonEntity.binpatch
     Checksum: 101a58c9 Exists: true
+  Reading patch net.minecraft.entity.boss.dragon.EnderDragonPartEntity.binpatch
+    Checksum: 3d82478d Exists: true
   Reading patch net.minecraft.entity.effect.LightningBoltEntity.binpatch
     Checksum: f044352 Exists: true
   Reading patch net.minecraft.entity.item.ArmorStandEntity$1.binpatch
@@ -27041,10 +27139,6 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 2acc82e1 Exists: true
   Reading patch net.minecraft.entity.item.ItemEntity.binpatch
     Checksum: b304940e Exists: true
-  Reading patch net.minecraft.entity.item.ItemFrameEntity$1.binpatch
-    Checksum: 649cac29 Exists: true
-  Reading patch net.minecraft.entity.item.ItemFrameEntity.binpatch
-    Checksum: f9778247 Exists: true
   Reading patch net.minecraft.entity.item.LeashKnotEntity.binpatch
     Checksum: a957cca0 Exists: true
   Reading patch net.minecraft.entity.item.PaintingType.binpatch
@@ -27115,28 +27209,8 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: eb4312fa Exists: true
   Reading patch net.minecraft.entity.monster.MagmaCubeEntity.binpatch
     Checksum: 1aac299 Exists: true
-  Reading patch net.minecraft.entity.monster.PhantomEntity$1.binpatch
-    Checksum: 4eeb3b2b Exists: true
-  Reading patch net.minecraft.entity.monster.PhantomEntity$AttackPhase.binpatch
-    Checksum: 73d627db Exists: true
-  Reading patch net.minecraft.entity.monster.PhantomEntity$AttackPlayerGoal.binpatch
-    Checksum: 24aef817 Exists: true
-  Reading patch net.minecraft.entity.monster.PhantomEntity$BodyHelperController.binpatch
-    Checksum: 2280f19a Exists: true
-  Reading patch net.minecraft.entity.monster.PhantomEntity$LookHelperController.binpatch
-    Checksum: 7d08da76 Exists: true
-  Reading patch net.minecraft.entity.monster.PhantomEntity$MoveGoal.binpatch
-    Checksum: 9e49423c Exists: true
-  Reading patch net.minecraft.entity.monster.PhantomEntity$MoveHelperController.binpatch
-    Checksum: 6fa1e479 Exists: true
-  Reading patch net.minecraft.entity.monster.PhantomEntity$OrbitPointGoal.binpatch
-    Checksum: 806e71d0 Exists: true
-  Reading patch net.minecraft.entity.monster.PhantomEntity$PickAttackGoal.binpatch
-    Checksum: a2a94412 Exists: true
-  Reading patch net.minecraft.entity.monster.PhantomEntity$SweepAttackGoal.binpatch
-    Checksum: afc8a44f Exists: true
-  Reading patch net.minecraft.entity.monster.PhantomEntity.binpatch
-    Checksum: 6ebbf1f7 Exists: true
+  Reading patch net.minecraft.entity.monster.PillagerEntity.binpatch
+    Checksum: 1bd58eb5 Exists: true
   Reading patch net.minecraft.entity.monster.RavagerEntity$1.binpatch
     Checksum: 3f2a3b0d Exists: true
   Reading patch net.minecraft.entity.monster.RavagerEntity$AttackGoal.binpatch
@@ -27195,12 +27269,16 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: b3f8cd0a Exists: true
   Reading patch net.minecraft.entity.monster.ZombieVillagerEntity.binpatch
     Checksum: 74c47811 Exists: true
+  Reading patch net.minecraft.entity.monster.ZombifiedPiglinEntity.binpatch
+    Checksum: d440927f Exists: true
   Reading patch net.minecraft.entity.monster.piglin.AbstractPiglinEntity.binpatch
     Checksum: c4c7c0c8 Exists: true
   Reading patch net.minecraft.entity.monster.piglin.PiglinEntity.binpatch
     Checksum: 558df9d7 Exists: true
   Reading patch net.minecraft.entity.monster.piglin.PiglinTasks.binpatch
     Checksum: bc7af349 Exists: true
+  Reading patch net.minecraft.entity.monster.piglin.StartAdmiringItemTask.binpatch
+    Checksum: e59ec5d7 Exists: true
   Reading patch net.minecraft.entity.passive.AnimalEntity.binpatch
     Checksum: a368856d Exists: true
   Reading patch net.minecraft.entity.passive.BeeEntity$1.binpatch
@@ -27307,6 +27385,16 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: dcac0c99 Exists: true
   Reading patch net.minecraft.entity.passive.PigEntity.binpatch
     Checksum: fbd14ed Exists: true
+  Reading patch net.minecraft.entity.passive.PolarBearEntity$AttackPlayerGoal.binpatch
+    Checksum: 81b006d5 Exists: true
+  Reading patch net.minecraft.entity.passive.PolarBearEntity$HurtByTargetGoal.binpatch
+    Checksum: 8a37a5 Exists: true
+  Reading patch net.minecraft.entity.passive.PolarBearEntity$MeleeAttackGoal.binpatch
+    Checksum: a563941f Exists: true
+  Reading patch net.minecraft.entity.passive.PolarBearEntity$PanicGoal.binpatch
+    Checksum: 3202ca58 Exists: true
+  Reading patch net.minecraft.entity.passive.PolarBearEntity.binpatch
+    Checksum: 63d62a18 Exists: true
   Reading patch net.minecraft.entity.passive.RabbitEntity$AvoidEntityGoal.binpatch
     Checksum: eb1a4ae9 Exists: true
   Reading patch net.minecraft.entity.passive.RabbitEntity$EvilAttackGoal.binpatch
@@ -27401,6 +27489,8 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 6e9782a0 Exists: true
   Reading patch net.minecraft.fluid.WaterFluid.binpatch
     Checksum: 6c4cf04a Exists: true
+  Reading patch net.minecraft.inventory.container.AbstractFurnaceContainer.binpatch
+    Checksum: 5a6937d6 Exists: true
   Reading patch net.minecraft.inventory.container.BeaconContainer$1.binpatch
     Checksum: 3f823450 Exists: true
   Reading patch net.minecraft.inventory.container.BeaconContainer$BeaconSlot.binpatch
@@ -27473,6 +27563,8 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 54cbf717 Exists: true
   Reading patch net.minecraft.item.BucketItem.binpatch
     Checksum: fd17e11f Exists: true
+  Reading patch net.minecraft.item.ChorusFruitItem.binpatch
+    Checksum: 4b889cdc Exists: true
   Reading patch net.minecraft.item.DyeColor.binpatch
     Checksum: 90029c8d Exists: true
   Reading patch net.minecraft.item.DyeableHorseArmorItem.binpatch
@@ -27549,6 +27641,8 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: dada9c3c Exists: true
   Reading patch net.minecraft.item.ShovelItem.binpatch
     Checksum: ead8f5d Exists: true
+  Reading patch net.minecraft.item.SpawnEggItem.binpatch
+    Checksum: 20fbc1e8 Exists: true
   Reading patch net.minecraft.item.ToolItem.binpatch
     Checksum: a6045e33 Exists: true
   Reading patch net.minecraft.item.WallOrFloorItem.binpatch
@@ -27697,6 +27791,10 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 19a85363 Exists: true
   Reading patch net.minecraft.nbt.StringNBT.binpatch
     Checksum: f9f4660e Exists: true
+  Reading patch net.minecraft.network.NettyCompressionEncoder.binpatch
+    Checksum: f46ee539 Exists: true
+  Reading patch net.minecraft.network.NettyPacketEncoder.binpatch
+    Checksum: 7a1687da Exists: true
   Reading patch net.minecraft.network.NetworkManager$1.binpatch
     Checksum: 0 Exists: false
   Reading patch net.minecraft.network.NetworkManager$2.binpatch
@@ -28032,7 +28130,7 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
   Reading patch net.minecraft.util.Direction$AxisDirection.binpatch
     Checksum: e8e78e8 Exists: true
   Reading patch net.minecraft.util.Direction$Plane.binpatch
-    Checksum: 51f13a2d Exists: true
+    Checksum: ea8a5aba Exists: true
   Reading patch net.minecraft.util.Direction.binpatch
     Checksum: 4a922864 Exists: true
   Reading patch net.minecraft.util.RegistryKey.binpatch
@@ -28053,6 +28151,28 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: b8d3c4ce Exists: true
   Reading patch net.minecraft.util.SoundEvents.binpatch
     Checksum: ad083d08 Exists: true
+  Reading patch net.minecraft.util.Util$1.binpatch
+    Checksum: e1031db5 Exists: true
+  Reading patch net.minecraft.util.Util$2.binpatch
+    Checksum: 13317f4e Exists: true
+  Reading patch net.minecraft.util.Util$3.binpatch
+    Checksum: 8f164601 Exists: true
+  Reading patch net.minecraft.util.Util$4.binpatch
+    Checksum: f1b0fb3 Exists: true
+  Reading patch net.minecraft.util.Util$5.binpatch
+    Checksum: 94290791 Exists: true
+  Reading patch net.minecraft.util.Util$6.binpatch
+    Checksum: 1d35cac4 Exists: true
+  Reading patch net.minecraft.util.Util$IdentityStrategy.binpatch
+    Checksum: 37ba6c3f Exists: true
+  Reading patch net.minecraft.util.Util$OS$1.binpatch
+    Checksum: f1437526 Exists: true
+  Reading patch net.minecraft.util.Util$OS$2.binpatch
+    Checksum: f587752e Exists: true
+  Reading patch net.minecraft.util.Util$OS.binpatch
+    Checksum: 6760596d Exists: true
+  Reading patch net.minecraft.util.Util.binpatch
+    Checksum: e7cda6cf Exists: true
   Reading patch net.minecraft.util.datafix.codec.DatapackCodec.binpatch
     Checksum: b27f33b5 Exists: true
   Reading patch net.minecraft.util.math.RayTraceContext$BlockMode.binpatch
@@ -28143,6 +28263,8 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 9b0de7c6 Exists: true
   Reading patch net.minecraft.world.ExplosionContext.binpatch
     Checksum: 9150f23b Exists: true
+  Reading patch net.minecraft.world.ForcedChunksSaveData.binpatch
+    Checksum: dab918ef Exists: true
   Reading patch net.minecraft.world.IBlockReader.binpatch
     Checksum: a64eb386 Exists: true
   Reading patch net.minecraft.world.IWorldReader.binpatch
@@ -28187,6 +28309,8 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 563cac9 Exists: true
   Reading patch net.minecraft.world.biome.BiomeAmbience$GrassColorModifier$3.binpatch
     Checksum: ad3cad1 Exists: true
+  Reading patch net.minecraft.world.biome.BiomeAmbience$GrassColorModifier$ColorModifier.binpatch
+    Checksum: 0 Exists: false
   Reading patch net.minecraft.world.biome.BiomeAmbience$GrassColorModifier.binpatch
     Checksum: 3faa7493 Exists: true
   Reading patch net.minecraft.world.biome.BiomeAmbience.binpatch
@@ -28209,6 +28333,8 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: b147ae6a Exists: true
   Reading patch net.minecraft.world.biome.MobSpawnInfo.binpatch
     Checksum: 8570a9f8 Exists: true
+  Reading patch net.minecraft.world.biome.provider.OverworldBiomeProvider.binpatch
+    Checksum: 52cba37c Exists: true
   Reading patch net.minecraft.world.border.WorldBorder$1.binpatch
     Checksum: 590d3749 Exists: true
   Reading patch net.minecraft.world.border.WorldBorder$IBorderInfo.binpatch
@@ -28415,6 +28541,12 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 433ac33e Exists: true
   Reading patch net.minecraft.world.spawner.AbstractSpawner.binpatch
     Checksum: 3f9bf3a5 Exists: true
+  Reading patch net.minecraft.world.spawner.CatSpawner.binpatch
+    Checksum: 5001d8d7 Exists: true
+  Reading patch net.minecraft.world.spawner.PatrolSpawner.binpatch
+    Checksum: 21aa7b03 Exists: true
+  Reading patch net.minecraft.world.spawner.PhantomSpawner.binpatch
+    Checksum: a31af6e0 Exists: true
   Reading patch net.minecraft.world.spawner.WorldEntitySpawner$1.binpatch
     Checksum: ab86e980 Exists: true
   Reading patch net.minecraft.world.spawner.WorldEntitySpawner$EntityDensityManager.binpatch
@@ -28445,7 +28577,7 @@ Loading patches file: /tmp/forge_installer4029873649377569585/data/server.lzma
     Checksum: 11ca3f44 Exists: true
   Reading patch net.minecraft.world.storage.WorldSavedData.binpatch
     Checksum: f3fb0286 Exists: true
-Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.4-20201102.104115/server-1.16.4-20201102.104115-srg.jar
+Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-srg.jar
   Patching net/minecraft/util/math/vector/Matrix3f 1/1
   Patching net/minecraft/world/server/ServerChunkProvider$1 1/1
   Patching net/minecraft/world/server/ServerChunkProvider$ChunkExecutor 1/1
@@ -28538,12 +28670,18 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/entity/EntitySpawnPlacementRegistry$PlacementType 1/1
   Patching net/minecraft/entity/EntitySpawnPlacementRegistry 1/1
   Patching net/minecraft/entity/ai/attributes/Attribute 1/1
+  Patching net/minecraft/entity/ai/attributes/AttributeModifierMap$MutableAttribute 1/1
+  Patching net/minecraft/entity/ai/attributes/AttributeModifierMap 1/1
   Patching net/minecraft/entity/ai/attributes/GlobalEntityTypeAttributes 1/1
+  Patching net/minecraft/entity/ai/brain/task/ShootTargetTask$Status 1/1
+  Patching net/minecraft/entity/ai/brain/task/ShootTargetTask 1/1
   Patching net/minecraft/entity/ai/brain/task/FarmTask 1/1
   Patching net/minecraft/entity/ai/goal/BreakDoorGoal 1/1
   Patching net/minecraft/entity/ai/goal/EatGrassGoal 1/1
   Patching net/minecraft/entity/ai/goal/MeleeAttackGoal 1/1
   Patching net/minecraft/entity/ai/goal/RangedBowAttackGoal 1/1
+  Patching net/minecraft/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState 1/1
+  Patching net/minecraft/entity/ai/goal/RangedCrossbowAttackGoal 1/1
   Patching net/minecraft/entity/ai/goal/BreakBlockGoal 1/1
   Patching net/minecraft/entity/ai/goal/RunAroundLikeCrazyGoal 1/1
   Patching net/minecraft/entity/ai/brain/memory/MemoryModuleType 1/1
@@ -28607,6 +28745,11 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/entity/passive/ParrotEntity$1 1/1
   Patching net/minecraft/entity/passive/ParrotEntity 1/1
   Patching net/minecraft/entity/passive/PigEntity 1/1
+  Patching net/minecraft/entity/passive/PolarBearEntity$AttackPlayerGoal 1/1
+  Patching net/minecraft/entity/passive/PolarBearEntity$HurtByTargetGoal 1/1
+  Patching net/minecraft/entity/passive/PolarBearEntity$MeleeAttackGoal 1/1
+  Patching net/minecraft/entity/passive/PolarBearEntity$PanicGoal 1/1
+  Patching net/minecraft/entity/passive/PolarBearEntity 1/1
   Patching net/minecraft/entity/passive/RabbitEntity$EvilAttackGoal 1/1
   Patching net/minecraft/entity/passive/RabbitEntity$AvoidEntityGoal 1/1
   Patching net/minecraft/entity/passive/RabbitEntity$RabbitData 1/1
@@ -28625,6 +28768,7 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/entity/passive/horse/HorseEntity$HorseData 1/1
   Patching net/minecraft/entity/passive/horse/HorseEntity 1/1
   Patching net/minecraft/entity/ai/goal/TriggerSkeletonTrapGoal 1/1
+  Patching net/minecraft/entity/boss/dragon/EnderDragonPartEntity 1/1
   Patching net/minecraft/entity/boss/dragon/EnderDragonEntity 1/1
   Patching net/minecraft/entity/boss/WitherEntity$DoNothingGoal 1/1
   Patching net/minecraft/entity/boss/WitherEntity 1/1
@@ -28632,8 +28776,6 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/entity/item/ArmorStandEntity 1/1
   Patching net/minecraft/entity/item/HangingEntity$1 1/1
   Patching net/minecraft/entity/item/HangingEntity 1/1
-  Patching net/minecraft/entity/item/ItemFrameEntity$1 1/1
-  Patching net/minecraft/entity/item/ItemFrameEntity 1/1
   Patching net/minecraft/entity/item/LeashKnotEntity 1/1
   Patching net/minecraft/entity/item/PaintingType 1/1
   Patching net/minecraft/entity/item/FallingBlockEntity 1/1
@@ -28641,6 +28783,7 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/entity/monster/AbstractSkeletonEntity$1 1/1
   Patching net/minecraft/entity/monster/AbstractSkeletonEntity 1/1
   Patching net/minecraft/entity/monster/CreeperEntity 1/1
+  Patching net/minecraft/entity/ICrossbowUser 1/1
   Patching net/minecraft/entity/monster/EndermanEntity$StareGoal 1/1
   Patching net/minecraft/entity/monster/EndermanEntity$PlaceBlockGoal 1/1
   Patching net/minecraft/entity/monster/EndermanEntity$FindPlayerGoal 1/1
@@ -28657,17 +28800,7 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/entity/monster/IllusionerEntity$MirrorSpellGoal 1/1
   Patching net/minecraft/entity/monster/IllusionerEntity 1/1
   Patching net/minecraft/entity/monster/MagmaCubeEntity 1/1
-  Patching net/minecraft/entity/monster/PhantomEntity$1 1/1
-  Patching net/minecraft/entity/monster/PhantomEntity$AttackPhase 1/1
-  Patching net/minecraft/entity/monster/PhantomEntity$AttackPlayerGoal 1/1
-  Patching net/minecraft/entity/monster/PhantomEntity$PickAttackGoal 1/1
-  Patching net/minecraft/entity/monster/PhantomEntity$BodyHelperController 1/1
-  Patching net/minecraft/entity/monster/PhantomEntity$OrbitPointGoal 1/1
-  Patching net/minecraft/entity/monster/PhantomEntity$LookHelperController 1/1
-  Patching net/minecraft/entity/monster/PhantomEntity$MoveHelperController 1/1
-  Patching net/minecraft/entity/monster/PhantomEntity$MoveGoal 1/1
-  Patching net/minecraft/entity/monster/PhantomEntity$SweepAttackGoal 1/1
-  Patching net/minecraft/entity/monster/PhantomEntity 1/1
+  Patching net/minecraft/entity/monster/PillagerEntity 1/1
   Patching net/minecraft/entity/monster/RavagerEntity$1 1/1
   Patching net/minecraft/entity/monster/RavagerEntity$AttackGoal 1/1
   Patching net/minecraft/entity/monster/RavagerEntity$Navigator 1/1
@@ -28697,11 +28830,14 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/entity/monster/ZombieEntity$GroupData 1/1
   Patching net/minecraft/entity/monster/ZombieEntity 1/1
   Patching net/minecraft/entity/monster/ZombieVillagerEntity 1/1
+  Patching net/minecraft/entity/monster/ZombifiedPiglinEntity 1/1
   Patching net/minecraft/entity/monster/HoglinEntity 1/1
   Patching net/minecraft/entity/monster/piglin/AbstractPiglinEntity 1/1
   Patching net/minecraft/entity/monster/piglin/PiglinEntity 1/1
   Patching net/minecraft/entity/monster/piglin/PiglinTasks 1/1
+  Patching net/minecraft/entity/monster/piglin/StartAdmiringItemTask 1/1
   Patching net/minecraft/entity/merchant/villager/AbstractVillagerEntity 1/1
+  Patching net/minecraft/world/spawner/CatSpawner 1/1
   Patching net/minecraft/entity/merchant/villager/VillagerEntity 1/1
   Patching net/minecraft/entity/merchant/villager/VillagerProfession 1/1
   Patching net/minecraft/entity/player/PlayerInventory 1/1
@@ -28748,6 +28884,7 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/item/Food$Builder 1/1
   Patching net/minecraft/item/Food 1/1
   Patching net/minecraft/inventory/container/Container 1/1
+  Patching net/minecraft/inventory/container/AbstractFurnaceContainer 1/1
   Patching net/minecraft/inventory/container/RepairContainer$1 1/1
   Patching net/minecraft/inventory/container/RepairContainer 1/1
   Patching net/minecraft/inventory/container/BeaconContainer$1 1/1
@@ -28783,6 +28920,7 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/item/BoneMealItem 1/1
   Patching net/minecraft/item/BowItem 1/1
   Patching net/minecraft/item/BucketItem 1/1
+  Patching net/minecraft/item/ChorusFruitItem 1/1
   Patching net/minecraft/item/ItemGroup$1 1/1
   Patching net/minecraft/item/ItemGroup$7 1/1
   Patching net/minecraft/item/ItemGroup$8 1/1
@@ -28818,6 +28956,7 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/item/MusicDiscItem 1/1
   Patching net/minecraft/item/ShearsItem 1/1
   Patching net/minecraft/item/ShovelItem 1/1
+  Patching net/minecraft/item/SpawnEggItem 1/1
   Patching net/minecraft/item/WallOrFloorItem 1/1
   Patching net/minecraft/potion/Potion 1/1
   Patching net/minecraft/potion/PotionBrewing$MixPredicate 1/1
@@ -28860,7 +28999,6 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/item/crafting/TippedArrowRecipe 1/1
   Patching net/minecraft/item/crafting/SmithingRecipe$Serializer 1/1
   Patching net/minecraft/item/crafting/SmithingRecipe 1/1
-  Patching net/minecraft/enchantment/EfficiencyEnchantment 1/1
   Patching net/minecraft/enchantment/Enchantment$Rarity 1/1
   Patching net/minecraft/enchantment/Enchantment 1/1
   Patching net/minecraft/enchantment/EnchantmentType$1 1/1
@@ -28895,6 +29033,7 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/world/Explosion$Mode 1/1
   Patching net/minecraft/world/Explosion 1/1
   Patching net/minecraft/world/ExplosionContext 1/1
+  Patching net/minecraft/world/ForcedChunksSaveData 1/1
   Patching net/minecraft/world/World$1 1/1
   Patching net/minecraft/world/World 1/1
   Patching net/minecraft/world/IWorldReader 1/1
@@ -28930,6 +29069,7 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/world/biome/MobSpawnInfo$SpawnCosts 1/1
   Patching net/minecraft/world/biome/MobSpawnInfo$Spawners 1/1
   Patching net/minecraft/world/biome/MobSpawnInfo 1/1
+  Patching net/minecraft/world/biome/provider/OverworldBiomeProvider 1/1
   Patching net/minecraft/block/AbstractBannerBlock 1/1
   Patching net/minecraft/block/AttachedStemBlock 1/1
   Patching net/minecraft/block/BambooBlock 1/1
@@ -28949,6 +29089,11 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/block/CactusBlock 1/1
   Patching net/minecraft/block/CampfireBlock 1/1
   Patching net/minecraft/block/CarrotBlock 1/1
+  Patching net/minecraft/block/ChestBlock$1 1/1
+  Patching net/minecraft/block/ChestBlock$2$1 1/1
+  Patching net/minecraft/block/ChestBlock$2 1/1
+  Patching net/minecraft/block/ChestBlock$4 1/1
+  Patching net/minecraft/block/ChestBlock 1/1
   Patching net/minecraft/block/ChorusFlowerBlock 1/1
   Patching net/minecraft/block/CocoaBlock$1 1/1
   Patching net/minecraft/block/CocoaBlock 1/1
@@ -28971,8 +29116,6 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/block/FrostedIceBlock 1/1
   Patching net/minecraft/block/AbstractBodyPlantBlock 1/1
   Patching net/minecraft/block/AbstractTopPlantBlock 1/1
-  Patching net/minecraft/block/LadderBlock$1 1/1
-  Patching net/minecraft/block/LadderBlock 1/1
   Patching net/minecraft/block/LeavesBlock 1/1
   Patching net/minecraft/block/FlowingFluidBlock 1/1
   Patching net/minecraft/block/MushroomBlock 1/1
@@ -28984,7 +29127,6 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/block/PotatoBlock 1/1
   Patching net/minecraft/block/PoweredRailBlock$1 1/1
   Patching net/minecraft/block/PoweredRailBlock 1/1
-  Patching net/minecraft/block/PumpkinBlock 1/1
   Patching net/minecraft/block/RailBlock$1 1/1
   Patching net/minecraft/block/RailBlock 1/1
   Patching net/minecraft/block/RailState$1 1/1
@@ -28993,7 +29135,6 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/block/RedstoneWireBlock$1 1/1
   Patching net/minecraft/block/RedstoneWireBlock 1/1
   Patching net/minecraft/block/SaplingBlock 1/1
-  Patching net/minecraft/block/ScaffoldingBlock 1/1
   Patching net/minecraft/block/SeaGrassBlock 1/1
   Patching net/minecraft/block/ShulkerBoxBlock$1 1/1
   Patching net/minecraft/block/ShulkerBoxBlock 1/1
@@ -29011,8 +29152,8 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/block/TNTBlock 1/1
   Patching net/minecraft/block/TrapDoorBlock$1 1/1
   Patching net/minecraft/block/TrapDoorBlock 1/1
-  Patching net/minecraft/block/TripWireBlock$1 1/1
-  Patching net/minecraft/block/TripWireBlock 1/1
+  Patching net/minecraft/block/TripWireHookBlock$1 1/1
+  Patching net/minecraft/block/TripWireHookBlock 1/1
   Patching net/minecraft/block/TurtleEggBlock 1/1
   Patching net/minecraft/block/VineBlock$1 1/1
   Patching net/minecraft/block/VineBlock 1/1
@@ -29076,6 +29217,8 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/world/end/DragonFightManager 1/1
   Patching net/minecraft/world/gen/DebugChunkGenerator 1/1
   Patching net/minecraft/world/gen/NoiseChunkGenerator 1/1
+  Patching net/minecraft/world/spawner/PatrolSpawner 1/1
+  Patching net/minecraft/world/spawner/PhantomSpawner 1/1
   Patching net/minecraft/world/gen/settings/DimensionGeneratorSettings 1/1
   Patching net/minecraft/world/gen/carver/WorldCarver 1/1
   Patching net/minecraft/world/gen/feature/AbstractBigMushroomFeature 1/1
@@ -29247,6 +29390,7 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/util/registry/WorldGenRegistries 1/1
   Patching net/minecraft/data/DataGenerator 1/1
   Patching net/minecraft/data/DirectoryCache 1/1
+  Patching net/minecraft/data/AdvancementProvider 1/1
   Patching net/minecraft/data/loot/BlockLootTables 1/1
   Patching net/minecraft/data/loot/EntityLootTables 1/1
   Patching net/minecraft/data/LootTableProvider 1/1
@@ -29271,6 +29415,7 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/nbt/CompressedStreamTools 1/1
   Patching net/minecraft/nbt/StringNBT$1 1/1
   Patching net/minecraft/nbt/StringNBT 1/1
+  Patching net/minecraft/network/NettyCompressionEncoder 1/1
   Patching net/minecraft/network/NetworkManager$QueuedPacket 1/1
   Patching net/minecraft/network/NetworkManager 1/1
   Patching net/minecraft/data/Main 1/1
@@ -29280,6 +29425,7 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/server/MinecraftServer$2 1/1
   Patching net/minecraft/server/MinecraftServer 1/1
   Patching net/minecraft/network/PacketBuffer 1/1
+  Patching net/minecraft/network/NettyPacketEncoder 1/1
   Patching net/minecraft/util/text/Style$1 1/1
   Patching net/minecraft/util/text/Style$Serializer 1/1
   Patching net/minecraft/util/text/Style 1/1
@@ -29343,10 +29489,23 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/advancements/AdvancementManager 1/1
   Patching net/minecraft/resources/DataPackRegistries 1/1
   Patching net/minecraft/util/SharedConstants 1/1
+  Patching net/minecraft/util/Util$1 1/1
+  Patching net/minecraft/util/Util$2 1/1
+  Patching net/minecraft/util/Util$3 1/1
+  Patching net/minecraft/util/Util$4 1/1
+  Patching net/minecraft/util/Util$5 1/1
+  Patching net/minecraft/util/Util$6 1/1
+  Patching net/minecraft/util/Util$IdentityStrategy 1/1
+  Patching net/minecraft/util/Util$OS$1 1/1
+  Patching net/minecraft/util/Util$OS$2 1/1
+  Patching net/minecraft/util/Util$OS 1/1
+  Patching net/minecraft/util/Util 1/1
   Patching net/minecraft/command/impl/LocateCommand 1/1
   Patching net/minecraft/advancements/Advancement$1 1/1
   Patching net/minecraft/advancements/Advancement$Builder 1/1
   Patching net/minecraft/advancements/Advancement 1/1
+  Patching net/minecraft/command/impl/SpreadPlayersCommand$Position 1/1
+  Patching net/minecraft/command/impl/SpreadPlayersCommand 1/1
   Patching net/minecraft/command/impl/TeleportCommand$Facing 1/1
   Patching net/minecraft/command/impl/TeleportCommand 1/1
   Patching net/minecraft/advancements/AdvancementList$IListener 1/1
@@ -29396,6 +29555,7 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/client/gui/widget/list/KeyBindingList$KeyEntry$2 1/1
   Patching net/minecraft/client/gui/widget/list/KeyBindingList$KeyEntry$1 1/1
   Patching net/minecraft/client/renderer/color/ItemColors 1/1
+  Patching net/minecraft/client/audio/ISound$AttenuationType 1/1
   Patching net/minecraft/client/renderer/OverlayRenderer 1/1
   Patching net/minecraft/client/renderer/texture/TextureAtlasSprite$InterpolationData 1/1
   Patching net/minecraft/client/particle/ParticleManager$1 1/1
@@ -29413,7 +29573,9 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/client/gui/screen/inventory/CreativeScreen$LockedSlot 1/1
   Patching net/minecraft/client/world/ClientWorld 1/1
   Patching net/minecraft/client/renderer/chunk/ChunkRenderDispatcher$CompiledChunk 1/1
+  Patching net/minecraft/client/renderer/RenderType$Type 1/1
   Patching net/minecraft/client/renderer/model/MultipartBakedModel$Builder 1/1
+  Patching net/minecraft/client/renderer/RenderType$State 1/1
   Patching com/mojang/blaze3d/platform/GlStateManager$StencilState 1/1
   Patching net/minecraft/util/ScreenShotHelper 1/1
   Patching net/minecraft/client/renderer/BlockRendererDispatcher$1 1/1
@@ -29423,9 +29585,9 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/client/renderer/chunk/ChunkRenderDispatcher$ChunkRender$ChunkRenderTask 1/1
   Patching net/minecraft/client/renderer/entity/PlayerRenderer 1/1
   Patching net/minecraft/client/renderer/model/ItemModelGenerator$1 1/1
+  Patching net/minecraft/block/ChestBlock$3 1/1
   Patching net/minecraft/client/renderer/vertex/VertexFormat 1/1
   Patching net/minecraft/client/shader/ShaderInstance 1/1
-  Patching net/minecraft/client/renderer/entity/model/SkeletonModel 1/1
   Patching net/minecraft/client/renderer/FogRenderer$FogType 1/1
   Patching net/minecraft/client/MouseHelper 1/1
   Patching net/minecraft/client/renderer/entity/layers/BipedArmorLayer 1/1
@@ -29474,6 +29636,7 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/client/renderer/texture/Stitcher 1/1
   Patching net/minecraft/client/gui/advancements/AdvancementTabType 1/1
   Patching net/minecraft/client/gui/advancements/AdvancementTabType$1 1/1
+  Patching net/minecraft/client/renderer/RenderType$Type$EqualityStrategy 1/1
   Patching net/minecraft/client/renderer/FluidBlockRenderer 1/1
   Patching net/minecraft/client/gui/MapItemRenderer$1 1/1
   Patching net/minecraft/client/resources/I18n 1/1
@@ -29483,12 +29646,14 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/client/renderer/BlockModelRenderer$Cache$2 1/1
   Patching net/minecraft/client/settings/ToggleableKeyBinding 1/1
   Patching net/minecraft/client/renderer/texture/TextureManager 1/1
+  Patching net/minecraft/client/renderer/Atlases$1 1/1
   Patching com/mojang/blaze3d/platform/GlStateManager$BlendState 1/1
   Patching net/minecraft/client/particle/ParticleManager 1/1
   Patching com/mojang/blaze3d/platform/GlStateManager$DestFactor 1/1
   Patching net/minecraft/client/renderer/BlockModelRenderer$Orientation 1/1
   Patching com/mojang/blaze3d/platform/GlStateManager$TexGenState 1/1
   Patching net/minecraft/client/renderer/model/SimpleBakedModel 1/1
+  Patching net/minecraft/client/renderer/RenderType$1 1/1
   Patching net/minecraft/client/audio/SoundHandler$1 1/1
   Patching net/minecraft/client/audio/SoundHandler$2 1/1
   Patching net/minecraft/client/gui/screen/WorldOptionsScreen 1/1
@@ -29506,7 +29671,9 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/client/network/play/ClientPlayNetHandler$1 1/1
   Patching net/minecraft/world/storage/SaveFormat$LevelSave$2 1/1
   Patching net/minecraft/client/renderer/texture/NativeImage$1 1/1
+  Patching net/minecraft/client/renderer/tileentity/SignTileEntityRenderer 1/1
   Patching net/minecraft/client/MainWindow 1/1
+  Patching net/minecraft/client/renderer/RenderType 1/1
   Patching net/minecraft/client/renderer/chunk/ChunkRenderDispatcher$CompiledChunk$1 1/1
   Patching net/minecraft/client/gui/screen/DeathScreen 1/1
   Patching net/minecraft/client/gui/widget/list/KeyBindingList 1/1
@@ -29523,6 +29690,7 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/client/gui/screen/PackLoadingManager 1/1
   Patching net/minecraft/client/gui/screen/ServerSelectionList$LanScanEntry 1/1
   Patching net/minecraft/client/renderer/FogRenderer 1/1
+  Patching net/minecraft/world/biome/BiomeAmbience$GrassColorModifier$ColorModifier 1/1
   Patching net/minecraft/client/gui/screen/MultiplayerScreen 1/1
   Patching net/minecraft/client/gui/screen/PackScreen$PackDirectoryWatcher 1/1
   Patching net/minecraft/util/math/vector/Vector4f 1/1
@@ -29596,11 +29764,13 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/client/gui/screen/CreateWorldScreen$2 1/1
   Patching net/minecraft/client/gui/screen/CreateWorldScreen$1 1/1
   Patching net/minecraft/client/gui/ScreenManager 1/1
+  Patching net/minecraft/client/renderer/RenderType$State$Builder 1/1
   Patching net/minecraft/client/Minecraft$WorldSelectionType 1/1
   Patching net/minecraft/client/gui/screen/WorldOptionsScreen$1 1/1
   Patching net/minecraft/client/gui/screen/WorldOptionsScreen$2 1/1
   Patching net/minecraft/client/gui/screen/WorldOptionsScreen$3 1/1
   Patching net/minecraft/client/gui/screen/inventory/CreativeScreen$CreativeContainer 1/1
+  Patching net/minecraft/client/renderer/RenderType$OutlineState 1/1
   Patching net/minecraft/client/renderer/BlockModelRenderer$1 1/1
   Patching net/minecraft/util/math/vector/TransformationMatrix 1/1
   Patching net/minecraft/client/renderer/model/VariantList 1/1
@@ -29610,6 +29780,7 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching com/mojang/blaze3d/platform/GlStateManager$DepthState 1/1
   Patching net/minecraft/client/multiplayer/ServerData 1/1
   Patching net/minecraft/client/world/ClientWorld$1 1/1
+  Patching net/minecraft/client/audio/ISound 1/1
   Patching net/minecraft/client/renderer/model/BlockModel$Deserializer 1/1
   Patching net/minecraft/client/renderer/entity/ItemFrameRenderer 1/1
   Patching net/minecraft/client/renderer/BlockModelShapes 1/1
@@ -29618,6 +29789,7 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching com/mojang/blaze3d/platform/GlStateManager$Viewport 1/1
   Patching net/minecraft/client/Minecraft 1/1
   Patching net/minecraft/client/renderer/model/ModelResourceLocation 1/1
+  Patching net/minecraft/client/renderer/Atlases 1/1
   Patching com/mojang/blaze3d/platform/GlStateManager$TexGen 1/1
   Patching net/minecraft/client/renderer/FirstPersonRenderer$1 1/1
   Patching net/minecraft/client/renderer/chunk/ChunkRenderDispatcher$ChunkTaskResult 1/1
@@ -29675,13 +29847,13 @@ Processing: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraft/se
   Patching net/minecraft/client/main/Main$2 1/1
   Patching net/minecraft/client/main/Main$1 1/1
   Patching net/minecraft/client/main/Main$3 1/1
+  Patching net/minecraft/client/renderer/tileentity/SignTileEntityRenderer$SignModel 1/1
   Patching com/mojang/blaze3d/platform/GlStateManager$FogState 1/1
   Patching com/mojang/blaze3d/platform/GlStateManager 1/1
   Patching net/minecraft/client/particle/ParticleManager$AnimatedSpriteImpl 1/1
-  Patching net/minecraft/client/renderer/entity/FishRenderer 1/1
   Patching net/minecraft/client/multiplayer/ServerData$ServerResourceMode 1/1
   Patching net/minecraft/client/renderer/entity/ItemRenderer 1/1
   Patching net/minecraft/client/gui/screen/CreateWorldScreen$GameMode 1/1
-  Output: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraftforge/forge/1.16.4-35.1.37/forge-1.16.4-35.1.37-server.jar Checksum Validated: cfaec3eb11b56244b83e856f42cbc9901ecd8278
+  Output: /workspaces/OneBlock/servidor_minecraft/./libraries/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-server.jar Checksum Validated: 6e1d27a1fb979eaa48a0102412df696f56690510
 The server installed successfully
 You can delete this installer file now if you wish
